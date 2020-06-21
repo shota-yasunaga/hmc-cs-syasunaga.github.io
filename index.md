@@ -4,7 +4,13 @@ title: About Shota
 
 ## About
 
-I am a neuroscientist and computer scientist, interested in the intersection of these areas. I have mainly worked with EEG, but I am also interested in other areas. My interest is on the application of machine learning to neuroscience data. 
+I am a machine learning engineer at [Omniscience](https://omniscience.com). 
+ 
+Before I started working at Omniscience, 
+I was doing computational neuroscience researches,
+ interested in the intersection of these areas. 
+ I have mainly worked with EEG, but I am also interested in other areas.
+  My interest is on the application of machine learning to neuroscience data. 
 
 ## Past Projects
 ### [Finger Movements Decoding with EMG](Projects/finger_movement.md)
@@ -14,8 +20,6 @@ As computers diversify, there is an increasing need for different control interf
 
 ### [ScreenPortal](Projects/screen_portal.md)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8GxPDpcuHXk?autoplay=1&loop=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ### Mind Wandering Detection with EEG
 
